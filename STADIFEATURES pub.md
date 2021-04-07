@@ -207,7 +207,7 @@ Elenco funzioni di gioco RPG + mostri. Fatto da me e con commenti di Drk090 (ini
       - telefono
       - Radio --> il giocatore ha la possibilità di aggiungere le proprie tracce
       - feature extra di 4 gen (detector, controlla stato squadra, amicizia, stato uovo ecc.) --> HUD(?)
-  -  Giocatore
+  - Giocatore
     - nome
     - immagine
     - Medaglie
