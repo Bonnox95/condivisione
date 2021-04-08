@@ -68,6 +68,8 @@ Elenco funzioni di gioco RPG + mostri. Fatto da me e con commenti di Drk090 (ini
     - Orme sulla sabbia (piedi e bici, astrarre-> orma veicolo, npc/sprite  sovrapposto?)
     - Acqua che riflette le persone e il cielo
     - Erba che si anima quando passi--> idem pozzanghere
+    - mattonelle di ghiaccio della palestra
+    - pietra friabile attraversabile con la bici
   - Spawn
     -  transizioni alla lotta
       -  fade
