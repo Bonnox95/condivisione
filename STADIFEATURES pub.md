@@ -8,8 +8,8 @@ Elenco funzioni di gioco RPG + mostri. Fatto da me e con commenti di Drk090 (ini
 
 - Avanti veloce
 - Framerate smart che non fa scattare
-
 -  Internazionalizza
+-  associazione tasti personalizzati
 
 * soldi
   * esistenza e comandi eventi per modificare (gamevar)
